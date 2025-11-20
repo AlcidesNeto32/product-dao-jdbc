@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <ANNOTATIONS>
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr" />
+        </ANNOTATIONS>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr" />
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr" />
+        </JAVADOC>
+        <NATIVE>
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr" />
+        </NATIVE>
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr" />
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr/share/java" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Downloads/mysql-connector-j_9.5.0-1ubuntu25.04_all/usr/share/java" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
