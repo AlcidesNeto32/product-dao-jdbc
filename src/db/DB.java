@@ -31,7 +31,7 @@ public class DB {
         }
     }
 
-    public static void closePreparedStatements(PreparedStatement preparedStatement) {
+    public static void closePreparedStatement(PreparedStatement preparedStatement) {
         if (preparedStatement != null) {
             try {
                 preparedStatement.close();
